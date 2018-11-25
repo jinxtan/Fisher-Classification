@@ -1,2 +1,4 @@
 # Fisher-Classification
-Kernel Fisher’s Discriminant with heterogeneous kernels
+Kernel Fisher’s Discriminant with heterogeneous kernels with Python & Matlab
+
+![Screenshot](screenshot.PNG)
